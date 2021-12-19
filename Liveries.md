@@ -1,5 +1,29 @@
 # AAPELS Reference Doc
 
+## Commands
+
+#### Spawn new livery
+```
+/e new [Livery Name]
+```
+
+#### Radio
+```
+/e radio [ID]
+```
+
+#### Siren
+```
+/e [Siren Name]
+```
+
+#### Horn
+```
+/e h
+or
+/e horn
+```
+
 ## Vehicle Liveries
 
 #### CCKW
