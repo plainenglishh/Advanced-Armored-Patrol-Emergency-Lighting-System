@@ -62,6 +62,10 @@ or
 - **ambulance** : Air Ambulance
 - **coastguard** : Coastguard Helicopter
 
+### Leopard
+- **tacops** : Police Tactical Operations 
+- **un** : United Nations
+
 ## Siren Tones
 
 - **999** : Standard Response Tones
