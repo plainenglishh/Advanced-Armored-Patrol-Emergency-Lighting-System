@@ -36,6 +36,11 @@ or
 /e spotlight
 ```
 
+#### Whitelist (PLAINENGLISH ONLY)
+```
+/e wl [Username]
+```
+
 ## Vehicle Liveries
 
 #### CCKW
@@ -61,6 +66,7 @@ or
 - **npas** : Police Helicopter
 - **ambulance** : Air Ambulance
 - **coastguard** : Coastguard Helicopter
+- **un** : United Nations helicopter
 
 ### Leopard
 - **tacops** : Police Tactical Operations 
