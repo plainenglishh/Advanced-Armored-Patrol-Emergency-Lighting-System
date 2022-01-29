@@ -7,9 +7,9 @@
 /e new [Livery Name]
 ```
 
-#### Radio
+#### Music
 ```
-/e radio [ID]
+/e music [ID]
 ```
 
 #### Siren
@@ -22,6 +22,18 @@
 /e h
 or
 /e horn
+```
+
+#### Radio
+```
+/e radio
+```
+
+#### Spotlight
+```
+/e sl
+or
+/e spotlight
 ```
 
 ## Vehicle Liveries
@@ -44,6 +56,11 @@ or
 - **fire** : Fire and Rescue RRV
 - **ambulance** : Critical Care Paramedic RRV
 - **police** : Police Response Vehicle
+
+### Huey
+- **npas** : Police Helicopter
+- **ambulance** : Air Ambulance
+- **coastguard** : Coastguard Helicopter
 
 ## Siren Tones
 
